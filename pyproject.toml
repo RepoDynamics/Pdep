@@ -26,4 +26,3 @@ dependencies = [
     "PyShellMan == 0.0.0.dev17",
     "PySyntax == 0.0.0.dev3",
 ]
-

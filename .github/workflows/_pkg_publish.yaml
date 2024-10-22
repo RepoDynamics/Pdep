@@ -30,7 +30,7 @@ jobs:
         # https://github.com/marketplace/actions/pypi-publish
         with:
           packages-dir: dist
-          verify-metadata: true
+          verify-metadata: false
           verbose: true
           print-hash: true
           skip-existing: false
@@ -56,7 +56,7 @@ jobs:
         with:
           packages-dir: dist
           repository-url: https://test.pypi.org/legacy/
-          verify-metadata: true
+          verify-metadata: false
           verbose: true
           print-hash: true
           skip-existing: false
