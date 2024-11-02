@@ -3,4 +3,4 @@ packaging
 LoggerMan == 0.0.0.dev59
 MDit == 0.0.0.dev30
 PyShellMan == 0.0.0.dev20
-PySyntax == 0.0.0.dev4
+PySyntax == 0.0.0.dev5
