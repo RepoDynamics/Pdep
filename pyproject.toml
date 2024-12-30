@@ -15,14 +15,14 @@ namespaces = true
 
 # ----------------------------------------- Project Metadata -------------------------------------
 [project]
-version = "0.0.0.dev71"
+version = "0.0.0.dev72"
 name = "Pdep"
 requires-python = ">=3.10"
 dependencies = [
     "requirements-parser >= 0.11.0",
     "packaging",
-    "LoggerMan == 0.0.0.dev83",
-    "MDit == 0.0.0.dev53",
-    "PyShellMan == 0.0.0.dev43",
+    "LoggerMan == 0.0.0.dev84",
+    "MDit == 0.0.0.dev54",
+    "PyShellMan == 0.0.0.dev44",
     "PySyntax == 0.0.0.dev5",
 ]
