@@ -7,7 +7,7 @@ import json
 
 import importlib.resources as _importlib_resources
 from packaging.requirements import Requirement as _Req
-import requirements as _reqs
+import requirements as _reqs  # https://requirements-parser.readthedocs.io/en/v0.11.0/
 import pysyntax as _pysyntax
 from loggerman import logger as _logger
 import mdit as _mdit
